@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778074549757",
+    "project_id": "double-degree-mobile",
+    "storage_bucket": "double-degree-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778074549757:android:18151fc71314e372f3fd94",
+        "android_client_info": {
+          "package_name": "com.example.doubledegreeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeg3Rkn-sENu62WIVlIqKjwMvTYU5KGKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
